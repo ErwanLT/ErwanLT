@@ -12,6 +12,7 @@
 ### Code
 [![](https://img.shields.io/badge/Code-Java-blue?style=plastic&logo=java)](https://www.java.com/ "java")
 [![](https://img.shields.io/badge/Code-Kotlin-blue?style=plastic&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
+[![](https://img.shields.io/badge/Code-Python-blue?style=plastic&logo=python)](https://www.python.org/ "Python")
 [![](https://img.shields.io/badge/Code-JavaScript-blue?style=plastic&logo=javascript)](https://www.javascript.com/ "javascript")
 [![](https://img.shields.io/badge/Code-Angular-blue?style=plastic&logo=angular&logoColor=red)](https://angular.io/ "angular")
 ### Tools
