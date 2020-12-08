@@ -2,8 +2,7 @@
 ## About me
 [![](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/erwan-le-tutour-32904972/)
 [![](https://img.shields.io/badge/-Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/ErwanLeTutour)
-[![](https://img.shields.io/badge/-DeviantArt-brightgreen?style=plastic&logo=deviantart)](https://www.deviantart.com/diablo143)
-
+[![](https://img.shields.io/badge/-DeviantArt-lightseagreen?style=plastic&logo=deviantart)](https://www.deviantart.com/diablo143)
 [![](img/devfestlille.png)](https://sfeir.com/fr)
 
 ## Skills
@@ -11,16 +10,16 @@
 ![](https://img.shields.io/badge/OS-Windows-9cf?style=plastic&logo=windows)
 ![](https://img.shields.io/badge/OS-Linux-9cf?style=plastic&logo=linux)
 ### Code
-[![](https://img.shields.io/badge/Code-Java-blue?style=plastic&logo=java)](https://www.java.com/)
-[![](https://img.shields.io/badge/Code-Kotlin-blue?style=plastic&logo=kotlin)](https://kotlinlang.org/)
-![](https://img.shields.io/badge/Code-JavaScript-blue?style=plastic&logo=javascript)
-[![](https://img.shields.io/badge/Code-Angular-blue?style=plastic&logo=angular)](https://angular.io/)
+[![](https://img.shields.io/badge/Code-Java-blue?style=plastic&logo=java)](https://www.java.com/ "java")
+[![](https://img.shields.io/badge/Code-Kotlin-blue?style=plastic&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
+[![](https://img.shields.io/badge/Code-JavaScript-blue?style=plastic&logo=javascript)](https://www.javascript.com/ "javascript")
+[![](https://img.shields.io/badge/Code-Angular-blue?style=plastic&logo=angular&logoColor=red)](https://angular.io/ "angular")
 ### Tools
-![](https://img.shields.io/badge/Tool-Oracle-9cf?style=plastic&logo=oracle)
+![](https://img.shields.io/badge/Tool-Oracle-9cf?style=plastic&logo=oracle&logoColor=indianred)
 ![](https://img.shields.io/badge/Tool-PostgreSQL-9cf?style=plastic&logo=postgresql)
 ![](https://img.shields.io/badge/Tool-Travis%20CI-9cf?style=plastic&logo=travis)
 ![](https://img.shields.io/badge/Tool-Codecov-9cf?style=plastic&logo=codecov)
-![](https://img.shields.io/badge/Tool-Heroku-9cf?style=plastic&logo=heroku)
+![](https://img.shields.io/badge/Tool-Heroku-9cf?style=plastic&logo=heroku&logoColor=purple)
 
 ## Github Stats
 
