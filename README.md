@@ -32,5 +32,5 @@
 
 
 ## Event
-![](img/hacktoberfest2020.png "Hactoberfest 2020")
-![](img/AdventOfCode.png "Advent of Code 2020")
+[![](img/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/)
+[![](img/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/)
