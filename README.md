@@ -8,7 +8,7 @@
 [![](img/devfestlille.png)](https://sfeir.com/fr)
 
 ## Skills
-## Plateform
+### Plateform
 ![](https://img.shields.io/badge/OS-Windows-9cf?style=plastic&logo=windows)
 ![](https://img.shields.io/badge/OS-Linux-9cf?style=plastic&logo=linux&logoColor=white)
 ### Code
