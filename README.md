@@ -9,6 +9,7 @@
 ### Plateform
 ![](https://img.shields.io/badge/OS-Windows-9cf?style=plastic&logo=windows)
 ![](https://img.shields.io/badge/OS-Linux-9cf?style=plastic&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/OS-MacOS-9cf?style=plastic&logo=macOS&logoColor=white)
 ### Code
 [![](https://img.shields.io/badge/Code-Java-blue?style=plastic&logo=java)](https://www.java.com/ "java")
 [![](https://img.shields.io/badge/Code-Kotlin-blue?style=plastic&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
