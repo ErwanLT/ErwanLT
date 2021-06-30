@@ -1,4 +1,11 @@
 # LE TUTOUR Erwan
+
+* [About](#about-me)
+* [Skills](#skills)
+* [Github stats](#github-stats)
+* [Events](#events)
+* [Articles](#articles)
+
 ## About me
 [![](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/erwan-le-tutour-32904972/)
 [![](https://img.shields.io/badge/-Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/ErwanLeTutour)
@@ -34,7 +41,7 @@
 [![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-## Event
+## Events
 [![](img/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/)
 [![](img/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/)
 
