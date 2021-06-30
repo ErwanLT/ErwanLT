@@ -69,4 +69,9 @@
 - [Monitoring your REST api with Prometheus et Grafana](https://medium.com/javarevisited/monitoring-your-rest-api-with-prometheus-et-grafana-6b909a7b0c69?source=rss-dbe07bc171c0------2)
 - [Documenting your API with Swagger](https://medium.com/javarevisited/documenting-your-api-with-swagger-c27a94104135?source=rss-dbe07bc171c0------2)
 - [Securing your rest API with SpringSecurity](https://medium.com/javarevisited/securing-your-rest-api-with-springsecurity-8ba440fe7b58?source=rss-dbe07bc171c0------2)
+- [Building a simple rest API with SpringBoot](https://medium.com/javarevisited/building-a-simple-rest-api-with-springboot-3f2e4b123ebb?source=rss-dbe07bc171c0------2)
+- [Factory design pattern — Java](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5?source=rss-dbe07bc171c0------2)
+- [Composite design pattern — Java](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12?source=rss-dbe07bc171c0------2)
+- [Prototype design pattern — Java](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8?source=rss-dbe07bc171c0------2)
+- [Builder design pattern — java](https://medium.com/javarevisited/builder-design-pattern-java-9307c47507d9?source=rss-dbe07bc171c0------2)
 <!-- BLOG-POST-LIST:END -->
