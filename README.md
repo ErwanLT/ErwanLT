@@ -64,4 +64,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JUnit parameterized tests](https://medium.com/javarevisited/junit-parameterized-tests-5be86a936ca0?source=rss-dbe07bc171c0------2)
+- [Migration from Swagger 2 to OpenAPI 3](https://medium.com/javarevisited/migration-from-swagger-2-to-openapi-3-391f3e97da73?source=rss-dbe07bc171c0------2)
+- [Monitoring your REST api with Prometheus et Grafana](https://medium.com/javarevisited/monitoring-your-rest-api-with-prometheus-et-grafana-6b909a7b0c69?source=rss-dbe07bc171c0------2)
+- [Documenting your API with Swagger](https://medium.com/javarevisited/documenting-your-api-with-swagger-c27a94104135?source=rss-dbe07bc171c0------2)
+- [Securing your rest API with SpringSecurity](https://medium.com/javarevisited/securing-your-rest-api-with-springsecurity-8ba440fe7b58?source=rss-dbe07bc171c0------2)
 <!-- BLOG-POST-LIST:END -->
