@@ -61,7 +61,3 @@
   * [Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
   * [Pyhton](https://letutour-e.medium.com/html-to-pdf-angular-f39310f02c56)
 * [JUnit parameterized tests](https://medium.com/javarevisited/junit-parameterized-tests-5be86a936ca0)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
