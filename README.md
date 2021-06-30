@@ -39,13 +39,18 @@
 [![](img/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/)
 
 ## Articles
-### API
+### [API](https://github.com/ErwanLT/HumanCloningFacilities)
 * [Building a simple rest API with SpringBoot](https://medium.com/javarevisited/building-a-simple-rest-api-with-springboot-3f2e4b123ebb)
 * [Securing your rest API with SpringSecurity](https://medium.com/javarevisited/securing-your-rest-api-with-springsecurity-8ba440fe7b58)
-* [Documenting your API with Swagger](https://medium.com/javarevisited/documenting-your-api-with-swagger-c27a94104135)
+* [Documenting your API with Swagger](https://medium.com/javarevisited/documenting-your-api-with-swagger-c27a94104135) -- [Migration from Swagger 2 to OpenAPI 3](https://medium.com/javarevisited/migration-from-swagger-2-to-openapi-3-391f3e97da73)
 * [Monitoring your REST api with Prometheus et Grafana](https://medium.com/javarevisited/monitoring-your-rest-api-with-prometheus-et-grafana-6b909a7b0c69)
-### Design pattern
+### [Design pattern](https://github.com/ErwanLT/designPattern)
 * [Builder design pattern](https://medium.com/javarevisited/builder-design-pattern-java-9307c47507d9)
 * [Prototype design pattern](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8)
 * [Composite design pattern](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12)
 * [Factory design pattern](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5)
+### Tips
+* HTML To PDF
+  * [Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
+  * [Pyhton](https://letutour-e.medium.com/html-to-pdf-angular-f39310f02c56)
+* [JUnit parameterized tests](https://medium.com/javarevisited/junit-parameterized-tests-5be86a936ca0)
