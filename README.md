@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/-DeviantArt-lightseagreen?style=plastic&logo=deviantart)](https://www.deviantart.com/diablo143)
 [![](https://img.shields.io/badge/-Medium-black?style=plastic&logo=medium)](https://letutour-e.medium.com/)
 ---
-[![](img/my-octocat.png)]()
+[![](img/my-octocat.png)](img/my-octocat.png)
 
 ## Skills
 ### Plateform
@@ -62,3 +62,4 @@
     * [Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
     * [Pyhton](https://letutour-e.medium.com/html-to-pdf-angular-f39310f02c56)
 * [JUnit parameterized tests](https://medium.com/javarevisited/junit-parameterized-tests-5be86a936ca0)
+* [How to have a personalized Github profile](https://letutour-e.medium.com/how-to-have-a-personalized-github-profile-7f0a6b252235)
