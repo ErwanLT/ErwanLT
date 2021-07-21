@@ -57,6 +57,7 @@
 * [Prototype design pattern](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8)
 * [Composite design pattern](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12)
 * [Factory design pattern](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5)
+* [Strategy design pattern](https://medium.com/javarevisited/strategy-design-pattern-java-30439e00299e)
 ### Tips
 * HTML To PDF
     * [Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
