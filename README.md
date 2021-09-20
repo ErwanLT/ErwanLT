@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/-DeviantArt-lightseagreen?style=plastic&logo=deviantart)](https://www.deviantart.com/diablo143)
 [![](https://img.shields.io/badge/-Medium-black?style=plastic&logo=medium)](https://letutour-e.medium.com/)
 ---
-[![](img/my-octocat.png)](img/my-octocat.png)
+![5nmo0g](https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif)
 
 ## Skills
 ### Plateform
