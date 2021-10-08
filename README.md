@@ -4,7 +4,7 @@
 * [Skills](#skills)
 * [Github stats](#github-stats)
 * [Events](#events)
-* [Articles](#articles)
+* [Articles](#blog-posts)
 
 ## About me
 [![](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/erwan-le-tutour-32904972/)
@@ -52,6 +52,7 @@
 * [Securing your rest API with SpringSecurity](https://medium.com/javarevisited/securing-your-rest-api-with-springsecurity-8ba440fe7b58)
 * [Documenting your API with Swagger](https://medium.com/javarevisited/documenting-your-api-with-swagger-c27a94104135) -- [Migration from Swagger 2 to OpenAPI 3](https://medium.com/javarevisited/migration-from-swagger-2-to-openapi-3-391f3e97da73)
 * [Monitoring your REST api with Prometheus et Grafana](https://medium.com/javarevisited/monitoring-your-rest-api-with-prometheus-et-grafana-6b909a7b0c69)
+* [Generate API client with open API code gen](https://letutour-e.medium.com/generate-api-client-with-openapi-codegen-763e3f2f8703)
 ### [Design pattern](https://github.com/ErwanLT/designPattern)
 * [Builder design pattern](https://medium.com/javarevisited/builder-design-pattern-java-9307c47507d9)
 * [Prototype design pattern](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8)
