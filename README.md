@@ -44,6 +44,7 @@
 ## Events
 [![](img/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/)
 [![](img/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/)
+[<img height="51" src="img/hacktoberfest2021.png" title="Hactoberfest 2020" width="55"/>](https://hacktoberfest.digitalocean.com/)
 
 # Blog posts
 ## Medium
