@@ -64,7 +64,7 @@
 ### Tips
 * HTML To PDF
     * [Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
-    * [Pyhton](https://letutour-e.medium.com/html-to-pdf-angular-f39310f02c56)
+    * [Python](https://letutour-e.medium.com/html-to-pdf-angular-f39310f02c56)
 * [JUnit parameterized tests](https://medium.com/javarevisited/junit-parameterized-tests-5be86a936ca0)
 * [How to have a personalized Github profile](https://letutour-e.medium.com/how-to-have-a-personalized-github-profile-7f0a6b252235)
 * [Create a custom Spring Boot banner](https://letutour-e.medium.com/spring-boot-banner-927383bdf154)
