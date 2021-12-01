@@ -45,7 +45,7 @@
 |      | Hacktoberfest 	                                                                                | Advent of Code	                                                            |
 |---   |:------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------:|
 | 2020 | [![](img/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/) 	| [![](img/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/) 	|
-| 2021 | [![](img/hacktoberfest2021.png "Hactoberfest 2021")](https://hacktoberfest.digitalocean.com/)  	|    	                                                                        |
+| 2021 | [![](img/hacktoberfest2021.png "Hactoberfest 2021")](https://hacktoberfest.digitalocean.com/)  | [![](img/AdventOfCode2021.png "Advent of Code 2020")](https://adventofcode.com/)  |
 
 # Blog posts
 ## Medium
