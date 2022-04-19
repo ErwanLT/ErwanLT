@@ -11,26 +11,34 @@
 [![](https://img.shields.io/badge/-Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/ErwanLeTutour)
 [![](https://img.shields.io/badge/-DeviantArt-lightseagreen?style=plastic&logo=deviantart)](https://www.deviantart.com/diablo143)
 [![](https://img.shields.io/badge/-Medium-black?style=plastic&logo=medium)](https://letutour-e.medium.com/)
+[![](https://img.shields.io/badge/-dev.to-black?style=plastic&logo=medium)](https://dev.to/erwanlt)
+[![](https://img.shields.io/badge/-Github-black?style=plastic&logo=github)](https://github.com/ErwanLT)
 ---
 ![5nmo0g](https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif)
 
 ## Skills
 ### Plateform
-![](https://img.shields.io/badge/OS-Windows-9cf?style=plastic&logo=windows)
-![](https://img.shields.io/badge/OS-Linux-9cf?style=plastic&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/OS-MacOS-9cf?style=plastic&logo=macOS&logoColor=white)
+![](https://img.shields.io/badge/-Windows-9cf?style=plastic&logo=windows)
+![](https://img.shields.io/badge/-Linux-9cf?style=plastic&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/-MacOS-9cf?style=plastic&logo=macOS&logoColor=white)
 ### Code
-[![](https://img.shields.io/badge/Code-Java-blue?style=plastic&logo=java)](https://www.java.com/ "java")
-[![](https://img.shields.io/badge/Code-Kotlin-blue?style=plastic&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
-[![](https://img.shields.io/badge/Code-Python-blue?style=plastic&logo=python&logoColor=yellow)](https://www.python.org/ "Python")
-[![](https://img.shields.io/badge/Code-JavaScript-blue?style=plastic&logo=javascript)](https://www.javascript.com/ "javascript")
-[![](https://img.shields.io/badge/Code-Angular-blue?style=plastic&logo=angular&logoColor=red)](https://angular.io/ "angular")
+[![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=java)](https://www.java.com/ "java")
+[![](https://img.shields.io/badge/-Kotlin-9cf?style=plastic&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
+[![](https://img.shields.io/badge/-Python-9cf?style=plastic&logo=python&logoColor=yellow)](https://www.python.org/ "Python")
+[![](https://img.shields.io/badge/-JavaScript-9cf?style=plastic&logo=javascript)](https://www.javascript.com/ "javascript")
+[![](https://img.shields.io/badge/-Angular-9cf?style=plastic&logo=angular&logoColor=red)](https://angular.io/ "angular")
 ### Tools
-![](https://img.shields.io/badge/Tool-Oracle-9cf?style=plastic&logo=oracle&logoColor=indianred)
-![](https://img.shields.io/badge/Tool-PostgreSQL-9cf?style=plastic&logo=postgresql)
-![](https://img.shields.io/badge/Tool-Travis%20CI-9cf?style=plastic&logo=travis)
-![](https://img.shields.io/badge/Tool-Codecov-9cf?style=plastic&logo=codecov)
-![](https://img.shields.io/badge/Tool-Heroku-9cf?style=plastic&logo=heroku&logoColor=purple)
+![](https://img.shields.io/badge/-Oracle-9cf?style=plastic&logo=oracle&logoColor=indianred)
+![](https://img.shields.io/badge/-PostgreSQL-9cf?style=plastic&logo=postgresql)
+![](https://img.shields.io/badge/-Travis%20CI-9cf?style=plastic&logo=travis)
+![](https://img.shields.io/badge/-Codecov-9cf?style=plastic&logo=codecov)
+![](https://img.shields.io/badge/-Heroku-9cf?style=plastic&logo=heroku&logoColor=purple)
+### Languages
+![](https://img.shields.io/badge/-French-blue?style=plastic)
+![](https://img.shields.io/badge/-English-white?style=plastic)
+
+### Design
+![](https://img.shields.io/badge/-Gimp-9cf?style=plastic&logo=gimp&logoColor=5C5543)
 
 ## Github Stats
 
