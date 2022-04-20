@@ -4,41 +4,39 @@
 * [Skills](#skills)
 * [Github stats](#github-stats)
 * [Events](#events)
-* [Articles](#blog-posts)
+* [Articles](#Blog-posts)
 
 ## About me
-[![](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/erwan-le-tutour-32904972/)
-[![](https://img.shields.io/badge/-Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/ErwanLeTutour)
-[![](https://img.shields.io/badge/-DeviantArt-lightseagreen?style=plastic&logo=deviantart)](https://www.deviantart.com/diablo143)
-[![](https://img.shields.io/badge/-Medium-black?style=plastic&logo=medium)](https://letutour-e.medium.com/)
-[![](https://img.shields.io/badge/-dev.to-black?style=plastic&logo=medium)](https://dev.to/erwanlt)
-[![](https://img.shields.io/badge/-Github-black?style=plastic&logo=github)](https://github.com/ErwanLT)
----
 ![5nmo0g](https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif)
 
-## Skills
-### Plateform
-![](https://img.shields.io/badge/-Windows-9cf?style=plastic&logo=windows)
-![](https://img.shields.io/badge/-Linux-9cf?style=plastic&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/-MacOS-9cf?style=plastic&logo=macOS&logoColor=white)
-### Code
-[![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=java)](https://www.java.com/ "java")
-[![](https://img.shields.io/badge/-Kotlin-9cf?style=plastic&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
-[![](https://img.shields.io/badge/-Python-9cf?style=plastic&logo=python&logoColor=yellow)](https://www.python.org/ "Python")
-[![](https://img.shields.io/badge/-JavaScript-9cf?style=plastic&logo=javascript)](https://www.javascript.com/ "javascript")
-[![](https://img.shields.io/badge/-Angular-9cf?style=plastic&logo=angular&logoColor=red)](https://angular.io/ "angular")
-### Tools
-![](https://img.shields.io/badge/-Oracle-9cf?style=plastic&logo=oracle&logoColor=indianred)
-![](https://img.shields.io/badge/-PostgreSQL-9cf?style=plastic&logo=postgresql)
-![](https://img.shields.io/badge/-Travis%20CI-9cf?style=plastic&logo=travis)
-![](https://img.shields.io/badge/-Codecov-9cf?style=plastic&logo=codecov)
-![](https://img.shields.io/badge/-Heroku-9cf?style=plastic&logo=heroku&logoColor=purple)
-### Languages
-![](https://img.shields.io/badge/-French-blue?style=plastic)
-![](https://img.shields.io/badge/-English-white?style=plastic)
+## 👦🏼 Social
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwan-le-tutour-32904972/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErwanLeTutour)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErwanLT)
 
-### Design
-![](https://img.shields.io/badge/-Gimp-9cf?style=plastic&logo=gimp&logoColor=5C5543)
+## Skills
+### 💻 OS
+![](https://img.shields.io/badge/-Windows-9cf?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/-MacOS-9cf?style=for-the-badge&logo=macOS&logoColor=white)
+### 👨🏼‍💻 Code
+[![](https://img.shields.io/badge/-Java-9cf?style=for-the-badge&logo=java)](https://www.java.com/ "java")
+[![](https://img.shields.io/badge/-Kotlin-9cf?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
+[![](https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/ "Python")
+[![](https://img.shields.io/badge/-JavaScript-9cf?style=for-the-badge&logo=javascript)](https://www.javascript.com/ "javascript")
+[![](https://img.shields.io/badge/-Angular-9cf?style=for-the-badge&logo=angular&logoColor=red)](https://angular.io/ "angular")
+### Tools
+![](https://img.shields.io/badge/-Oracle-9cf?style=for-the-badge&logo=oracle&logoColor=indianred)
+![](https://img.shields.io/badge/-PostgreSQL-9cf?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/-Travis%20CI-9cf?style=for-the-badge&logo=travis)
+![](https://img.shields.io/badge/-Codecov-9cf?style=for-the-badge&logo=codecov)
+![](https://img.shields.io/badge/-Heroku-9cf?style=for-the-badge&logo=heroku&logoColor=purple)
+### 🗣 Languages
+![](https://img.shields.io/badge/-French-blue?style=for-the-badge)
+![](https://img.shields.io/badge/-English-white?style=for-the-badge)
+
+### 🖍 Design
+![](https://img.shields.io/badge/-Gimp-9cf?style=for-the-badge&logo=gimp&logoColor=5C5543)
 
 ## Github Stats
 
@@ -55,7 +53,11 @@
 | 2020 | [![](img/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/) 	| [![](img/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/) 	|
 | 2021 | [![](img/hacktoberfest2021.png "Hactoberfest 2021")](https://hacktoberfest.digitalocean.com/)  | [![](img/AdventOfCode2021.png "Advent of Code 2020")](https://adventofcode.com/)  |
 
-# Blog posts
+# 📝 Blog posts
+## Find me
+[![](https://img.shields.io/badge/-DeviantArt-lightseagreen?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/diablo143)
+[![](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://letutour-e.medium.com/)
+[![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=medium)](https://dev.to/erwanlt)
 ## Medium
 ### [API](https://github.com/ErwanLT/HumanCloningFacilities)
 * [Building a simple rest API with SpringBoot](https://medium.com/javarevisited/building-a-simple-rest-api-with-springboot-3f2e4b123ebb)
@@ -69,7 +71,7 @@
 * [Composite design pattern](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12)
 * [Factory design pattern](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5)
 * [Strategy design pattern](https://medium.com/javarevisited/strategy-design-pattern-java-30439e00299e)
-### Tips
+### 💡 Tips
 * HTML To PDF
     * [Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
     * [Python](https://letutour-e.medium.com/html-to-pdf-angular-f39310f02c56)
