@@ -55,7 +55,7 @@
 
 # 📝 Blog posts
 ## Find me
-[![](https://img.shields.io/badge/-DeviantArt-lightseagreen?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/diablo143)
+[![](https://img.shields.io/badge/-DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/diablo143)
 [![](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://letutour-e.medium.com/)
 [![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=medium)](https://dev.to/erwanlt)
 ## Medium
