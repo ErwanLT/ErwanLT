@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ### 🗣 Languages
 ![](https://img.shields.io/badge/-French-blue?style=for-the-badge)
-![](https://img.shields.io/badge/-English-white?style=for-the-badge)
+![](https://img.shields.io/badge/-English-lightgrey?style=for-the-badge)
 
 ### 🖍 Design
 ![](https://img.shields.io/badge/-Gimp-9cf?style=for-the-badge&logo=gimp&logoColor=5C5543)
