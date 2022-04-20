@@ -16,21 +16,21 @@
 
 ## Skills
 ### 💻 OS
-![](https://img.shields.io/badge/-Windows-9cf?style=for-the-badge&logo=windows)
-![](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/-MacOS-9cf?style=for-the-badge&logo=macOS&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ### 👨🏼‍💻 Code
-[![](https://img.shields.io/badge/-Java-9cf?style=for-the-badge&logo=java)](https://www.java.com/ "java")
-[![](https://img.shields.io/badge/-Kotlin-9cf?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/ "Kolinlang")
-[![](https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/ "Python")
-[![](https://img.shields.io/badge/-JavaScript-9cf?style=for-the-badge&logo=javascript)](https://www.javascript.com/ "javascript")
-[![](https://img.shields.io/badge/-Angular-9cf?style=for-the-badge&logo=angular&logoColor=red)](https://angular.io/ "angular")
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/ "java")
+[![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/ "Kolinlang")
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/ "Python")
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/ "javascript")
+[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whit)](https://angular.io/ "angular")
 ### Tools
-![](https://img.shields.io/badge/-Oracle-9cf?style=for-the-badge&logo=oracle&logoColor=indianred)
-![](https://img.shields.io/badge/-PostgreSQL-9cf?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/-Travis%20CI-9cf?style=for-the-badge&logo=travis)
+![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=for-the-badge&logo=travis)
 ![](https://img.shields.io/badge/-Codecov-9cf?style=for-the-badge&logo=codecov)
-![](https://img.shields.io/badge/-Heroku-9cf?style=for-the-badge&logo=heroku&logoColor=purple)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ### 🗣 Languages
 ![](https://img.shields.io/badge/-French-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/-English-white?style=for-the-badge)
