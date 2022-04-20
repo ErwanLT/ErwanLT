@@ -4,7 +4,7 @@
 * [Skills](#skills)
 * [Github stats](#github-stats)
 * [Events](#events)
-* [Articles](#Blog-posts)
+* [Articles](#-blog-posts)
 
 ## About me
 ![5nmo0g](https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif)
