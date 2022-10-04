@@ -1,13 +1,7 @@
 # LE TUTOUR Erwan
-[![@erwanlt's Holopin board](https://holopin.io/api/user/board?user=erwanlt)](https://holopin.io/@erwanlt)
-
-* [About](#about-me)
-* [Skills](#skills)
-* [Github stats](#github-stats)
-* [Events](#events)
-* [Articles](#-blog-posts)
 
 ## About me
+[![@erwanlt's Holopin board](https://holopin.io/api/user/board?user=erwanlt)](https://holopin.io/@erwanlt)
 ![5nmo0g](https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif)
 
 ## 👦🏼 Social
