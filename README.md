@@ -43,11 +43,11 @@
 
 
 ## Events
-|      |                                         Hacktoberfest 	                                         |                                 Advent of Code	                                  |
-|---   |:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
-| 2020 | [![](img/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/) 	 | [![](img/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/) 	   |
-| 2021 |  [![](img/hacktoberfest2021.png "Hactoberfest 2021")](https://hacktoberfest.digitalocean.com/)  | [![](img/AdventOfCode2021.png "Advent of Code 2020")](https://adventofcode.com/) |
-| 2022 |                  [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/)                  |                                                                                  |
+|      |                                                Hacktoberfest 	                                                |                                 Advent of Code	                                  |
+|---   |:-------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+| 2020 | [![](img/hacktoberfest/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/) 	 | [![](img/adventOfCode/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/) 	   |
+| 2021 |  [![](img/hacktoberfest/hacktoberfest2021.png "Hactoberfest 2021")](https://hacktoberfest.digitalocean.com/)  | [![](img/adventOfCode/AdventOfCode2021.png "Advent of Code 2020")](https://adventofcode.com/) |
+| 2022 |  [![](img/hacktoberfest/hacktoberfest2022.png "Hactoberfest 2022")](https://hacktoberfest.digitalocean.com/)  |                                                                                  |
 
 
 # 📝 Blog posts
