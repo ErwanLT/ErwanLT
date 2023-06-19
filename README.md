@@ -70,6 +70,7 @@
   * [Builder design pattern](https://medium.com/javarevisited/builder-design-pattern-java-9307c47507d9)
   * [Prototype design pattern](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8)
   * [Factory design pattern](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5)
+  * [Singleton design pattern](https://letutour-e.medium.com/singleton-design-pattern-java-22e9c3d889f)
 #### Structural design pattern
   * [Composite design pattern](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12) 
 #### Behaviorial design pattern
