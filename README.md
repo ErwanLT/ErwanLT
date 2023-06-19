@@ -2,7 +2,9 @@
 
 ## About me
 [![@erwanlt's Holopin board](https://holopin.io/api/user/board?user=erwanlt)](https://holopin.io/@erwanlt)
-![5nmo0g](https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif">
+</div>
 
 ## 👦🏼 Social
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwan-le-tutour-32904972/)
