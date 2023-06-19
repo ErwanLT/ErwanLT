@@ -63,11 +63,15 @@
 * [Monitoring your REST api with Prometheus et Grafana](https://medium.com/javarevisited/monitoring-your-rest-api-with-prometheus-et-grafana-6b909a7b0c69)
 * [Generate API client with open API code gen](https://letutour-e.medium.com/generate-api-client-with-openapi-codegen-763e3f2f8703)
 ### [Design pattern](https://github.com/ErwanLT/designPattern)
-* [Builder design pattern](https://medium.com/javarevisited/builder-design-pattern-java-9307c47507d9)
-* [Prototype design pattern](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8)
-* [Composite design pattern](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12)
-* [Factory design pattern](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5)
-* [Strategy design pattern](https://medium.com/javarevisited/strategy-design-pattern-java-30439e00299e)
+* Creation design pattern
+  * [Builder design pattern](https://medium.com/javarevisited/builder-design-pattern-java-9307c47507d9)
+  * [Prototype design pattern](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8)
+  * [Factory design pattern](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5)
+* Structural design pattern
+  * [Composite design pattern](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12) 
+* Behaviorial design pattern
+  * [Strategy design pattern](https://medium.com/javarevisited/strategy-design-pattern-java-30439e00299e) 
+
 ### 💡 Tips
 * HTML To PDF
     * ☕️[Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
