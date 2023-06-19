@@ -55,6 +55,7 @@
 [![](https://img.shields.io/badge/-DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/diablo143)
 [![](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://letutour-e.medium.com/)
 [![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=medium)](https://dev.to/erwanlt)
+[![](https://img.shields.io/badge/-sfeir.dev-blue?style=for-the-badge)](https://www.sfeir.dev/author/erwan/)
 ## Medium
 ### [API](https://github.com/ErwanLT/HumanCloningFacilities)
 * [Building a simple rest API with SpringBoot](https://medium.com/javarevisited/building-a-simple-rest-api-with-springboot-3f2e4b123ebb)
