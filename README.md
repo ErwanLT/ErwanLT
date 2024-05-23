@@ -50,6 +50,7 @@
 | 2020 | [![](img/hacktoberfest/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/) 	 |  [![](img/adventOfCode/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/) 	  |
 | 2021 |  [![](img/hacktoberfest/hacktoberfest2021.png "Hactoberfest 2021")](https://hacktoberfest.digitalocean.com/)  | [![](img/adventOfCode/AdventOfCode2021.png "Advent of Code 2021")](https://adventofcode.com/) |
 | 2022 |  [![](img/hacktoberfest/hacktoberfest2022.png "Hactoberfest 2022")](https://hacktoberfest.digitalocean.com/)  | [![](img/adventOfCode/AdventOfCode2022.png "Advent of Code 2022")](https://adventofcode.com/) |
+| 2023 |[![](img/hacktoberfest/hacktoberfest2023.png "Hactoberfest 2023")](https://hacktoberfest.digitalocean.com/)  | |
 
 
 # 📝 Blog posts
