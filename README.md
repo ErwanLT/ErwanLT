@@ -59,28 +59,32 @@
 [![](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://letutour-e.medium.com/)
 [![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=medium)](https://dev.to/erwanlt)
 [![](https://img.shields.io/badge/-sfeir.dev-blue?style=for-the-badge)](https://www.sfeir.dev/author/erwan/)
-## Medium
-### [API](https://github.com/ErwanLT/HumanCloningFacilities)
-* [Building a simple rest API with SpringBoot](https://medium.com/javarevisited/building-a-simple-rest-api-with-springboot-3f2e4b123ebb)
-* [Securing your rest API with SpringSecurity](https://medium.com/javarevisited/securing-your-rest-api-with-springsecurity-8ba440fe7b58)
-* [Documenting your API with Swagger](https://medium.com/javarevisited/documenting-your-api-with-swagger-c27a94104135) -- [Migration from Swagger 2 to OpenAPI 3](https://medium.com/javarevisited/migration-from-swagger-2-to-openapi-3-391f3e97da73)
-* [Monitoring your REST api with Prometheus et Grafana](https://medium.com/javarevisited/monitoring-your-rest-api-with-prometheus-et-grafana-6b909a7b0c69)
-* [Generate API client with open API code gen](https://letutour-e.medium.com/generate-api-client-with-openapi-codegen-763e3f2f8703)
-### [Design pattern](https://github.com/ErwanLT/designPattern)
-#### Creation design pattern
-  * [Builder design pattern](https://medium.com/javarevisited/builder-design-pattern-java-9307c47507d9)
-  * [Prototype design pattern](https://medium.com/javarevisited/prototype-design-pattern-java-79a100b0e4e8)
-  * [Factory design pattern](https://medium.com/javarevisited/factory-design-pattern-java-b755025437b5)
-  * [Singleton design pattern](https://letutour-e.medium.com/singleton-design-pattern-java-22e9c3d889f)
-#### Structural design pattern
-  * [Composite design pattern](https://medium.com/javarevisited/composite-design-pattern-java-9cd0964d3b12) 
-#### Behaviorial design pattern
-  * [Strategy design pattern](https://medium.com/javarevisited/strategy-design-pattern-java-30439e00299e) 
+## [SFEIR.dev](https://www.sfeir.dev/)
+### [Design Patterns](https://github.com/ErwanLT/designPattern)
+#### Creation
+- [Factory](https://www.sfeir.dev/back/design-pattern-factory/)
+- [Builder](https://www.sfeir.dev/back/les-designs-patterns-de-creation-builder/)
+- [Prototype](https://www.sfeir.dev/back/les-designs-patterns-de-creation-prototype/)
+- [Singleton](https://www.sfeir.dev/back/design-pattern-singleton/)
+#### Comportementaux
+- [Stratégie](https://www.sfeir.dev/back/les-designs-pattern-comportementaux/)
+- [Mémento](https://www.sfeir.dev/back/design-patterns-comportementaux-memento/)
+- [Médiateur](https://www.sfeir.dev/back/design-patterns-comportementaux-mediateur/)
+- [Observateur](https://www.sfeir.dev/back/design-patterns-comportementaux-observateur/)
+- [Chaine de responsabilité](https://www.sfeir.dev/back/design-patterns-comportementaux-chaine-responsabilite/)
+- [Commande](https://www.sfeir.dev/back/design-patterns-comportementaux-commande/)
+- [Etat](https://www.sfeir.dev/back/design-patterns-comportementaux-etat/)
+- [Visiteur](https://www.sfeir.dev/back/les-design-patterns-comportementaux-visiteur/)
+- [Interpréteur](https://www.sfeir.dev/back/les-design-patterns-comportementaux-interpreteur/)
+#### Structurels
+- [Adaptateur](https://www.sfeir.dev/back/les-design-patterns-structurel-adaptateur/)
+- [Composite](https://www.sfeir.dev/back/les-design-patterns-structurels-composite/)
+- [Décorateur](https://www.sfeir.dev/back/les-design-patterns-structurels-decorateur/)
+- [Facade](https://www.sfeir.dev/back/les-design-patterns-structurels-facade/)
+- [Pont](https://www.sfeir.dev/back/les-design-patterns-structurels-pont/)
+- [Proxy](https://www.sfeir.dev/back/les-design-patterns-structurels-proxy/)
 
 ### 💡 Tips
-* HTML To PDF
-    * ☕️[Java](https://medium.com/javarevisited/html-to-pdf-java-9f46288faeb)
-    * 🐍[Python](https://letutour-e.medium.com/html-to-pdf-angular-f39310f02c56)
-* [JUnit parameterized tests](https://medium.com/javarevisited/junit-parameterized-tests-5be86a936ca0)
-* [How to have a personalized Github profile](https://letutour-e.medium.com/how-to-have-a-personalized-github-profile-7f0a6b252235)
-* [Create a custom Spring Boot banner](https://letutour-e.medium.com/spring-boot-banner-927383bdf154)
+* [Test paramétrés - un test pour les gouverner tous](https://www.sfeir.dev/back/un-test-pour-les-gouverner-tous/)
+* [Réussir sa migration de Swagger 2 à OpenApi 3](https://www.sfeir.dev/back/migrer-de-swagger-2-a-openapi-3/)
+* [Comment personnaliser la bannière d'un projet Spring Boot](https://www.sfeir.dev/back/comment-avoir-une-banniere-spring-personnalisee/)
