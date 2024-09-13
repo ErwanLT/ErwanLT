@@ -79,3 +79,4 @@
 * [Réussir sa migration de Swagger 2 à OpenApi 3](https://www.sfeir.dev/back/migrer-de-swagger-2-a-openapi-3/)
 * [Comment personnaliser la bannière d'un projet Spring Boot](https://www.sfeir.dev/back/comment-avoir-une-banniere-spring-personnalisee/)
 * [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
+* [Avoir un profil GitHub qui claque](https://www.sfeir.dev/product/avoir-un-profil-github-qui-claque/)
