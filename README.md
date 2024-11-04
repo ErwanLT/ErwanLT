@@ -81,3 +81,9 @@
 * [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
 * [Avoir un profil GitHub qui claque](https://www.sfeir.dev/product/avoir-un-profil-github-qui-claque/)
 * [Les commandes git essentielles démystifiées](https://www.sfeir.dev/product/draft-les-commande-git/)
+
+### [Spring Boot](https://github.com/ErwanLT/springboot-demo)
+* [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
+* [Superviser votre application Spring Boot grâce à Prometheus et Grafana](https://www.sfeir.dev/back/superviser-votre-application-spring-boot/)
+* [Planifier des tâches avec Spring Batch](https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/)
+
