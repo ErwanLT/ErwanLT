@@ -37,11 +37,11 @@
 
 ## Github Stats
 
-[![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/onedark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ## Events
@@ -88,4 +88,6 @@
 * [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
 * [Superviser votre application Spring Boot grâce à Prometheus et Grafana](https://www.sfeir.dev/back/superviser-votre-application-spring-boot/)
 * [Planifier des tâches avec Spring Batch](https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/)
+* [Mettre en place une API GraphQL avec Spring Boot](https://www.sfeir.dev/back/spring-boot-graphql/)
+* [Créer un pokedex avec Spring Boot et Vaadin](https://www.sfeir.dev/back/papa-je-veux-un-pokedex-partie-1/)
 
