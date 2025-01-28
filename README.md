@@ -90,4 +90,5 @@
 * [Planifier des tâches avec Spring Batch](https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/)
 * [Mettre en place une API GraphQL avec Spring Boot](https://www.sfeir.dev/back/spring-boot-graphql/)
 * [Créer un pokedex avec Spring Boot et Vaadin](https://www.sfeir.dev/back/papa-je-veux-un-pokedex-partie-1/)
+* [Spring sécurity : mettre en place basic Auth](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-basic-auth/)
 
