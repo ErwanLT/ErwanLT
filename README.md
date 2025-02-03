@@ -91,4 +91,5 @@
 * [Mettre en place une API GraphQL avec Spring Boot](https://www.sfeir.dev/back/spring-boot-graphql/)
 * [Créer un pokedex avec Spring Boot et Vaadin](https://www.sfeir.dev/back/papa-je-veux-un-pokedex-partie-1/)
 * [Spring sécurity : mettre en place basic Auth](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-basic-auth/)
+* [Spring sécurity : mettre en place JWT](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-jwt/)
 
