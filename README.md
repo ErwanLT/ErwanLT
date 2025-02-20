@@ -94,3 +94,6 @@
 * [Spring sécurity : mettre en place JWT](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-jwt/)
 * [Migration de base de données : Flyway vs Liquibase](https://www.sfeir.dev/back/migration-versioning-de-base-de-donnees-dans-une-application-spring-boot/)
 
+## Carte mentale des articles
+![](img/map.png "Articles")
+
