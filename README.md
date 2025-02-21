@@ -92,6 +92,7 @@
 * [Créer un pokedex avec Spring Boot et Vaadin](https://www.sfeir.dev/back/papa-je-veux-un-pokedex-partie-1/)
 * [Spring sécurity : mettre en place basic Auth](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-basic-auth/)
 * [Spring sécurity : mettre en place JWT](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-jwt/)
+* [Spring sécurity : mettre en place JWT + RBAC](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-acces-par-role/)
 * [Migration de base de données : Flyway vs Liquibase](https://www.sfeir.dev/back/migration-versioning-de-base-de-donnees-dans-une-application-spring-boot/)
 
 ## Carte mentale des articles
