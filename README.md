@@ -94,6 +94,7 @@
 * [Spring sécurity : mettre en place JWT](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-jwt/)
 * [Spring sécurity : mettre en place JWT + RBAC](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-acces-par-role/)
 * [Migration de base de données : Flyway vs Liquibase](https://www.sfeir.dev/back/migration-versioning-de-base-de-donnees-dans-une-application-spring-boot/)
+* [Introduisez du chaos dans votre application Spring Boot](https://www.sfeir.dev/back/introduisez-du-chaos-dans-votre-application-spring-boot/)
 
 ## Carte mentale des articles
 ![](img/map.png "Articles")
