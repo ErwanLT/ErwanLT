@@ -78,21 +78,22 @@
 ### 💡 Tips
 * [Test paramétrés - un test pour les gouverner tous](https://www.sfeir.dev/back/un-test-pour-les-gouverner-tous/)
 * [Réussir sa migration de Swagger 2 à OpenApi 3](https://www.sfeir.dev/back/migrer-de-swagger-2-a-openapi-3/)
-* [Comment personnaliser la bannière d'un projet Spring Boot](https://www.sfeir.dev/back/comment-avoir-une-banniere-spring-personnalisee/)
 * [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
 * [Avoir un profil GitHub qui claque](https://www.sfeir.dev/product/avoir-un-profil-github-qui-claque/)
 * [Les commandes git essentielles démystifiées](https://www.sfeir.dev/product/draft-les-commande-git/)
 * [Comprendre les annotations dans Spring Boot](https://www.sfeir.dev/back/comprendre-les-annotations-dans-spring-boot/)
 
 ### [Spring Boot](https://github.com/ErwanLT/springboot-demo)
+* [Comment personnaliser la bannière d'un projet Spring Boot](https://www.sfeir.dev/back/comment-avoir-une-banniere-spring-personnalisee/)
 * [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
 * [Superviser votre application Spring Boot grâce à Prometheus et Grafana](https://www.sfeir.dev/back/superviser-votre-application-spring-boot/)
 * [Planifier des tâches avec Spring Batch](https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/)
 * [Mettre en place une API GraphQL avec Spring Boot](https://www.sfeir.dev/back/spring-boot-graphql/)
 * [Créer un pokedex avec Spring Boot et Vaadin](https://www.sfeir.dev/back/papa-je-veux-un-pokedex-partie-1/)
-* [Spring sécurity : mettre en place basic Auth](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-basic-auth/)
-* [Spring sécurity : mettre en place JWT](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-jwt/)
-* [Spring sécurity : mettre en place JWT + RBAC](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-acces-par-role/)
+* Spring sécurity
+  * [Spring sécurity : mettre en place basic Auth](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-basic-auth/)
+  * [Spring sécurity : mettre en place JWT](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-jwt/)
+  * [Spring sécurity : mettre en place JWT + RBAC](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-acces-par-role/)
 * [Migration de base de données : Flyway vs Liquibase](https://www.sfeir.dev/back/migration-versioning-de-base-de-donnees-dans-une-application-spring-boot/)
 * [Introduisez du chaos dans votre application Spring Boot](https://www.sfeir.dev/back/introduisez-du-chaos-dans-votre-application-spring-boot/)
 
