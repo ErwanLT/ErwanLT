@@ -100,6 +100,3 @@
 ### [Quarkus](https://github.com/ErwanLT/quarkus-demo)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
 
-## Carte mentale des articles
-![](img/map.png "Articles")
-
