@@ -3,7 +3,9 @@
 ## About me
 [![@erwanlt's Holopin board](https://holopin.io/api/user/board?user=erwanlt)](https://holopin.io/@erwanlt)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif">
+  <!--<img src="https://user-images.githubusercontent.com/21158564/134035633-a1cececd-1b07-4876-b9d6-762795a3e4e4.gif">-->
+  <img width="440" alt="image" src="https://github.com/user-attachments/assets/b93e8467-7b20-492b-bec9-39a6b4099c73" />
+
 </div>
 
 ## 👦🏼 Social
