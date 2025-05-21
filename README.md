@@ -46,24 +46,14 @@
 [![](https://raw.githubusercontent.com/ErwanLT/ErwanLT/main/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-## Events
-|      |                                                Hacktoberfest 	                                                |                                        Advent of Code	                                        | meetup                                    |
-|------|:-------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|-------------------------------------------|
-| 2020 | [![](img/hacktoberfest/hacktoberfest2020.png "Hactoberfest 2020")](https://hacktoberfest.digitalocean.com/) 	 |  [![](img/adventOfCode/AdventOfCode.png "Advent of Code 2020")](https://adventofcode.com/) 	  |                                           |
-| 2021 |  [![](img/hacktoberfest/hacktoberfest2021.png "Hactoberfest 2021")](https://hacktoberfest.digitalocean.com/)  | [![](img/adventOfCode/AdventOfCode2021.png "Advent of Code 2021")](https://adventofcode.com/) |                                           |
-| 2022 |  [![](img/hacktoberfest/hacktoberfest2022.png "Hactoberfest 2022")](https://hacktoberfest.digitalocean.com/)  | [![](img/adventOfCode/AdventOfCode2022.png "Advent of Code 2022")](https://adventofcode.com/) |                                           |
-| 2023 |[![](img/hacktoberfest/hacktoberfest2023.png "Hactoberfest 2023")](https://hacktoberfest.digitalocean.com/)  |                                                                                               | ![apiday_paris.png](img/apiday_paris.png) |
-| 2024 |  | [![](img/adventOfCode/AdventOfCode2024.png "Advent of Code 2024")](https://adventofcode.com/) | ![apiday_paris.png](img/apiday_paris.png) |
-
-
-# 📝 Blog posts
-## Find me
+## 📝 Blog posts
+### Find me
 [![](https://img.shields.io/badge/-DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/diablo143)
 [![](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://letutour-e.medium.com/)
 [![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=medium)](https://dev.to/erwanlt)
 [![](https://img.shields.io/badge/-sfeir.dev-blue?style=for-the-badge)](https://www.sfeir.dev/author/erwan/)
-## [SFEIR.dev](https://www.sfeir.dev/)
-### [Design Patterns](https://github.com/ErwanLT/designPattern)
+### [SFEIR.dev](https://www.sfeir.dev/)
+#### [Design Patterns](https://github.com/ErwanLT/designPattern)
 | Creation | Comportementaux | Structurels |
 |--- | --- | --- |
 | [Factory](https://www.sfeir.dev/back/design-pattern-factory/) | [Stratégie](https://www.sfeir.dev/back/les-designs-pattern-comportementaux/) | [Adaptateur](https://www.sfeir.dev/back/les-design-patterns-structurel-adaptateur/) |
@@ -77,7 +67,7 @@
 | | [Interpréteur](https://www.sfeir.dev/back/les-design-patterns-comportementaux-interpreteur/) | |
 
 
-### 💡 Tips
+#### 💡 Tips
 * [Test paramétrés - un test pour les gouverner tous](https://www.sfeir.dev/back/un-test-pour-les-gouverner-tous/)
 * [Réussir sa migration de Swagger 2 à OpenApi 3](https://www.sfeir.dev/back/migrer-de-swagger-2-a-openapi-3/)
 * [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
@@ -85,7 +75,7 @@
 * [Les commandes git essentielles démystifiées](https://www.sfeir.dev/product/draft-les-commande-git/)
 * [Comprendre les annotations dans Spring Boot](https://www.sfeir.dev/back/comprendre-les-annotations-dans-spring-boot/)
 
-### [Spring Boot](https://github.com/ErwanLT/springboot-demo)
+#### [Spring Boot](https://github.com/ErwanLT/springboot-demo)
 * [Comment personnaliser la bannière d'un projet Spring Boot](https://www.sfeir.dev/back/comment-avoir-une-banniere-spring-personnalisee/)
 * [Comment bien gérer ses exceptions dans Spring Boot](https://www.sfeir.dev/back/comment-bien-gerer-ses-erreur-dans-springboot/)
 * [Superviser votre application Spring Boot grâce à Prometheus et Grafana](https://www.sfeir.dev/back/superviser-votre-application-spring-boot/)
@@ -104,6 +94,6 @@
 * [Mise en place de HATEOAS dans Spring Boot : un guide pratique](https://www.sfeir.dev/back/mise-en-place-de-hateoas-dans-spring-boot-un-guide-pratique/)
 * [Maîtrisez votre architecture Spring Boot avec ArchUnit](https://www.sfeir.dev/back/maitrisez-votre-architecture-spring-boot-avec-archunit/)
 
-### [Quarkus](https://github.com/ErwanLT/quarkus-demo)
+#### [Quarkus](https://github.com/ErwanLT/quarkus-demo)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
 
