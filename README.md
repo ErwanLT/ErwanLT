@@ -98,6 +98,11 @@
   * [Spring sécurity : mettre en place JWT + RBAC](https://www.sfeir.dev/back/securisez-vos-api-avec-spring-security-acces-par-role/)
 * [Migration de base de données : Flyway vs Liquibase](https://www.sfeir.dev/back/migration-versioning-de-base-de-donnees-dans-une-application-spring-boot/)
 * [Introduisez du chaos dans votre application Spring Boot](https://www.sfeir.dev/back/introduisez-du-chaos-dans-votre-application-spring-boot/)
+* Génération de code
+  * [MapStruct : Dites adieu au code répétitif et boostez vos mappages Java !](https://www.sfeir.dev/back/mapstruct-dites-adieu-au-code-repetitif/)
+  * [Générer vos clients d'API à partir de leur spécification OpenAPI](https://www.sfeir.dev/back/generer-vos-client-dapi-a-partir-de-leur-specification-openapi/)
+* [Mise en place de HATEOAS dans Spring Boot : un guide pratique](https://www.sfeir.dev/back/mise-en-place-de-hateoas-dans-spring-boot-un-guide-pratique/)
+* [Maîtrisez votre architecture Spring Boot avec ArchUnit](https://www.sfeir.dev/back/maitrisez-votre-architecture-spring-boot-avec-archunit/)
 
 ### [Quarkus](https://github.com/ErwanLT/quarkus-demo)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
