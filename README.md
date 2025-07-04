@@ -93,6 +93,11 @@
   * [Générer vos clients d'API à partir de leur spécification OpenAPI](https://www.sfeir.dev/back/generer-vos-client-dapi-a-partir-de-leur-specification-openapi/)
 * [Mise en place de HATEOAS dans Spring Boot : un guide pratique](https://www.sfeir.dev/back/mise-en-place-de-hateoas-dans-spring-boot-un-guide-pratique/)
 * [Maîtrisez votre architecture Spring Boot avec ArchUnit](https://www.sfeir.dev/back/maitrisez-votre-architecture-spring-boot-avec-archunit/)
+* **BRMS**
+  * [Maîtrisez vos règles métier : Intégrez Drools dans Spring Boot](https://www.sfeir.dev/back/maitrisez-vos-regles-metier-integrez-drools-dans-spring-boot/)
+  * [Révolutionner la gestion des règles métier : intégrer RuleBook dans Spring Boot](https://www.sfeir.dev/back/revolutionner-la-gestion-des-regles-metier-integrer-rulebook-dans-spring-boot/)
+* [Maîtrisez les Tests de Charge avec Gatling pour Spring Boot](https://www.sfeir.dev/back/maitrisez-les-tests-de-charge-avec-gatling-pour-spring-boot/)
+* [Gérer et superviser ses applications avec Spring Boot Admin](https://www.sfeir.dev/back/gerer-et-superviser-ses-applications-avec-spring-boot-admin/)
 
 #### [Quarkus](https://github.com/ErwanLT/quarkus-demo)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
