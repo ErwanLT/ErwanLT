@@ -74,6 +74,7 @@
 * [Avoir un profil GitHub qui claque](https://www.sfeir.dev/product/avoir-un-profil-github-qui-claque/)
 * [Les commandes git essentielles démystifiées](https://www.sfeir.dev/product/draft-les-commande-git/)
 * [Comprendre les annotations dans Spring Boot](https://www.sfeir.dev/back/comprendre-les-annotations-dans-spring-boot/)
+* [Démystifier les regex](https://www.sfeir.dev/back/demystifier-les-regex/)
 
 #### [Spring Boot](https://github.com/ErwanLT/springboot-demo)
 * [Comment personnaliser la bannière d'un projet Spring Boot](https://www.sfeir.dev/back/comment-avoir-une-banniere-spring-personnalisee/)
@@ -96,8 +97,10 @@
 * **BRMS**
   * [Maîtrisez vos règles métier : Intégrez Drools dans Spring Boot](https://www.sfeir.dev/back/maitrisez-vos-regles-metier-integrez-drools-dans-spring-boot/)
   * [Révolutionner la gestion des règles métier : intégrer RuleBook dans Spring Boot](https://www.sfeir.dev/back/revolutionner-la-gestion-des-regles-metier-integrer-rulebook-dans-spring-boot/)
+  * [Intégration d'Easy Rules dans une application Spring Boot](https://www.sfeir.dev/back/integration-deasy-rules-dans-une-application-spring-boot/)
 * [Maîtrisez les Tests de Charge avec Gatling pour Spring Boot](https://www.sfeir.dev/back/maitrisez-les-tests-de-charge-avec-gatling-pour-spring-boot/)
 * [Gérer et superviser ses applications avec Spring Boot Admin](https://www.sfeir.dev/back/gerer-et-superviser-ses-applications-avec-spring-boot-admin/)
+* [Limiter les appels à son API REST avec Bucket4j](https://www.sfeir.dev/back/limiter-les-appels-a-son-api-rest-avec-bucket4j/)
 
 #### [Quarkus](https://github.com/ErwanLT/quarkus-demo)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
