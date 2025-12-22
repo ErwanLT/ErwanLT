@@ -101,6 +101,9 @@
 * [Maîtrisez les Tests de Charge avec Gatling pour Spring Boot](https://www.sfeir.dev/back/maitrisez-les-tests-de-charge-avec-gatling-pour-spring-boot/)
 * [Gérer et superviser ses applications avec Spring Boot Admin](https://www.sfeir.dev/back/gerer-et-superviser-ses-applications-avec-spring-boot-admin/)
 * [Limiter les appels à son API REST avec Bucket4j](https://www.sfeir.dev/back/limiter-les-appels-a-son-api-rest-avec-bucket4j/)
+* [Spring AOP : comprendre la programmation orientée aspect dans Spring](https://www.sfeir.dev/back/spring-aop-comprendre-la-programmation-orientee-aspect-dans-spring/)
+* [Versioning des API dans Spring Boot : Guide Complet](https://www.sfeir.dev/back/versioning-des-api-dans-spring-boot-guide-complet/)
+* [Boostez votre application Spring Boot grâce aux design patterns](https://www.sfeir.dev/back/boostez-votre-application-spring-boot-grace-aux-design-patterns/)
 
 #### [Quarkus](https://github.com/ErwanLT/quarkus-demo)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
