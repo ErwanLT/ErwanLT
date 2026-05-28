@@ -135,6 +135,7 @@
   * [Ludothèque augmentée : un RAG local avec Spring AI, Ollama et Chroma](https://www.sfeir.dev/back/ludotheque-augmentee-un-rag-local-avec-spring-ai-ollama-et-chroma/)
   * [Et si on intégrait LangChain dans  Spring Boot ? Partie 1](https://www.sfeir.dev/back/et-si-on-integrait-langchain-dans-spring-boot-partie-1/)
   * [Et si on intégrait LangChain dans  Spring Boot ? Partie 2](https://www.sfeir.dev/back/et-si-on-integrait-langchain-dans-spring-boot-partie-2/)
+  * [Créer votre server MCP dans Spring Boot](https://www.sfeir.dev/back/creer-votre-server-mcp-dans-spring-boot/)
 * Messaging
   * [Intégration de Kafka dans une application Spring Boot](https://www.sfeir.dev/back/integration-de-kafka-dans-une-application-spring-boot/)
   * [Intégration de Kafka dans une application Spring Boot - Allons plus loins](https://www.sfeir.dev/back/integration-de-kafka-dans-une-application-spring-boot-allons-plus-loins/)
@@ -174,7 +175,9 @@
 * [Quarkus : définition](https://www.sfeir.dev/quarkus-definition/)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
 * [Proteger le livre de comptes et le coffre fort avec JWT dans Quarkus](https://www.sfeir.dev/back/proteger-le-livre-de-comptes-et-le-coffre-fort-avec-jwt-dans-quarkus/)
-
+* [La Taverne Nocturne : traiter les flux avec Quarkus Batch](https://www.sfeir.dev/back/la-taverne-nocturne-traiter-les-flux-avec-quarkus-batch/)
+* [Mettre en place la documentation OpenAPI dans une application Quarkus](https://www.sfeir.dev/back/mettre-en-place-la-documentation-openapi-dans-une-application-quarkus/)
+* [La taverne multilingue](https://www.sfeir.dev/back/la-taverne-multilingue/)
 </details>
 
 <details open>
@@ -183,7 +186,7 @@
 * Architecture
   * [Architecture hexagonale en Java - relier DDD, Design Patterns et code concret](https://www.sfeir.dev/back/architecture-hexagonale-en-java-relier-ddd-design-patterns-et-code-concret/)
 * Fun & Projects
-  * [Tetris : un classique intemporel à redécouvrir par le code](https://www.sfeir.dev/back/tetris-un-classique-intemporel-a-redecouvrir-par-le-code/)
+  * [Tetris : un classique intemporel à redécouvrir par le code](https://www.sfeir.dev/back/tetris-un-classique-intemporel-a-}-par-le-code/)
   * [Papa, dessine-moi un jeu vidéo](https://www.sfeir.dev/back/papa-dessine-moi-un-jeu-video/)
   * [Un mur de lampes à lave pour la sécurité](https://www.sfeir.dev/back/un-mur-de-lampes-a-lave-pour-la-securite/)
 * History
@@ -280,5 +283,7 @@
   * [REST : définition](https://www.sfeir.dev/rest-definition/)
   * [SOAP : définition](https://www.sfeir.dev/soap-definition/)
   * [Frontmatter - définition](https://www.sfeir.dev/frontmatter-pourquoi-lutiliser/)
+* IA
+  * [Skills vs Tools : la différence fondamentale dans un agent IA](https://www.sfeir.dev/ia/skills-vs-tools-la-difference-fondamentale-dans-un-agent-ia/)
 
 </details>
