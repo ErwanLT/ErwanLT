@@ -145,6 +145,7 @@
   * [Ludothèque augmentée : un RAG local avec Spring AI, Ollama et Chroma](https://www.sfeir.dev/back/ludotheque-augmentee-un-rag-local-avec-spring-ai-ollama-et-chroma/)
   * [Et si on intégrait LangChain dans  Spring Boot ? Partie 1](https://www.sfeir.dev/back/et-si-on-integrait-langchain-dans-spring-boot-partie-1/)
   * [Et si on intégrait LangChain dans  Spring Boot ? Partie 2](https://www.sfeir.dev/back/et-si-on-integrait-langchain-dans-spring-boot-partie-2/)
+  * [Créer votre server MCP dans Spring Boot](https://www.sfeir.dev/back/creer-votre-server-mcp-dans-spring-boot/)
 * Messaging
   * [Intégration de Kafka dans une application Spring Boot](https://www.sfeir.dev/back/integration-de-kafka-dans-une-application-spring-boot/)
   * [Intégration de Kafka dans une application Spring Boot - Allons plus loins](https://www.sfeir.dev/back/integration-de-kafka-dans-une-application-spring-boot-allons-plus-loins/)
@@ -221,7 +222,7 @@
   * [Architecture hexagonale en Java - relier DDD, Design Patterns et code concret](https://www.sfeir.dev/back/architecture-hexagonale-en-java-relier-ddd-design-patterns-et-code-concret/)
   * [Spring Boot, Quarkus et Struts 2 : benchmark comparatif de trois frameworks backend Java](https://www.sfeir.dev/back/spring-boot-quarkus-et-struts-2-benchmark-comparatif-de-trois-frameworks-backend-java/)
 * Fun & Projects
-  * [Tetris : un classique intemporel à redécouvrir par le code](https://www.sfeir.dev/back/tetris-un-classique-intemporel-a-redecouvrir-par-le-code/)
+  * [Tetris : un classique intemporel à redécouvrir par le code](https://www.sfeir.dev/back/tetris-un-classique-intemporel-a-}-par-le-code/)
   * [Papa, dessine-moi un jeu vidéo](https://www.sfeir.dev/back/papa-dessine-moi-un-jeu-video/)
   * [Un mur de lampes à lave pour la sécurité](https://www.sfeir.dev/back/un-mur-de-lampes-a-lave-pour-la-securite/)
   * [Dans les coulisses de The Falling Whale : sécurité, Push et JavaScript](https://www.sfeir.dev/back/dans-les-coulisses-de-the-falling-whale-securite-push-et-javascript/)
@@ -334,5 +335,7 @@
   * [REST : définition](https://www.sfeir.dev/rest-definition/)
   * [SOAP : définition](https://www.sfeir.dev/soap-definition/)
   * [Frontmatter - définition](https://www.sfeir.dev/frontmatter-pourquoi-lutiliser/)
+* IA
+  * [Skills vs Tools : la différence fondamentale dans un agent IA](https://www.sfeir.dev/ia/skills-vs-tools-la-difference-fondamentale-dans-un-agent-ia/)
 
 </details>
