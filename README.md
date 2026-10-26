@@ -82,8 +82,9 @@
   * [Versioning des API dans Spring Boot : Guide Complet](https://www.sfeir.dev/back/versioning-des-api-dans-spring-boot-guide-complet/)
   * [Vers un standard des erreurs HTTP](https://www.sfeir.dev/back/vers-un-standard-des-erreurs-http/)
   * [Intégration de Thymeleaf dans une application Spring Boot](https://www.sfeir.dev/back/integration-de-thymeleaf-dans-une-application-spring-boot/)
-  * [HttpExchange vs OpenFeign - le match des clients HTTP](https://www.sfeir.dev/back/httpexchange-vs-openfeign/)
   * [Spring Data REST - créer des API sans controllers](https://www.sfeir.dev/back/spring-data-rest-creer-des-api-sans-controllers/)
+  * [Créer votre server MCP dans Spring Boot](https://www.sfeir.dev/back/creer-votre-server-mcp-dans-spring-boot/)
+  * [4 fonctionnalités OpenAPI que vous ignorez (et qui vous allégeraient sérieusement la vie)](https://www.sfeir.dev/back/4-fonctionnalites-openapi-que-tu-ignores-et-qui-tallegeraient-serieusement-la-vie/)
 * Architecture & Patterns
   * [Boostez votre application Spring Boot grâce aux design patterns](https://www.sfeir.dev/back/boostez-votre-application-spring-boot-grace-aux-design-patterns/)
   * [Maîtrisez votre architecture Spring Boot avec ArchUnit](https://www.sfeir.dev/back/maitrisez-votre-architecture-spring-boot-avec-archunit/)
@@ -110,6 +111,8 @@
   * [Accélérer son application Spring Boot grâce à l’asynchrone](https://www.sfeir.dev/back/accelerer-son-application-spring-boot-grace-a-lasynchrone/)
   * [Gérer des requêtes dynamiques avec Spring Boot et les Sealed Interfaces](https://www.sfeir.dev/back/gerer-des-requetes-dynamiques-avec-spring-boot-et-les-sealed-interfaces/)
   * [Gestion des tâches asynchrones avec Spring Boot et Project Reactor](https://www.sfeir.dev/back/gestion-des-taches-asynchrones-avec-spring-boot-et-project-reactor/)
+  * [Architectures Spring Boot : tour d'horizon](https://www.sfeir.dev/back/architectures-spring-boot-tour-dhorizon/)
+  * [Stop au code redondant : clean Architecture, DDD et généricité appliqués au CRUD](https://www.sfeir.dev/back/stop-au-code-redondant-clean-architecture-ddd-et-genericite-appliques-au-crud/)
 * Database & Persistence
   * [Migration et versioning de base de données dans une application Spring Boot : Flyway vs Liquibase](https://www.sfeir.dev/back/migration-versioning-de-base-de-donnees-dans-une-application-spring-boot/)
   * [Spring Boot et le défi du multi datasource](https://www.sfeir.dev/back/spring-boot-multi-datasource/)
@@ -131,6 +134,13 @@
   * [Partie 6 : Gestion des erreurs](https://www.sfeir.dev/partie-6-gestion-des-erreurs/)
   * [À l'abordage de GraphQL avec Spring Boot](https://www.sfeir.dev/back/spring-boot-graphql/)
 * IA
+  * [Les Skills : donner un vrai métier à votre agent IA](https://www.sfeir.dev/ia/les-skills-donner-un-vrai-metier-a-votre-agent-ia/)
+  * [Darwin et l'IA : la sélection artificielle des machines](https://www.sfeir.dev/ia/darwin-ia-selection-artificielle-des-machines/)
+  * [IA et généalogie : comment l'IA m'a aidé à remonter le fil de ma généalogie](https://www.sfeir.dev/ia/ia-et-genealogie-comment-lia-ma-aide-a-remonter-le-fil-de-ma-genealogie/)
+  * [Claude : quand les modèles d'IA parlent le langage de la littérature](https://www.sfeir.dev/ia/claude-quand-les-modeles-dia-parlent-le-langage-de-la-litterature/)
+  * [Google est mort, vive Google !](https://www.sfeir.dev/ia/google-est-mort-vive-google/)
+  * [NotebookLM : donnez une nouvelle dimension à vos notes et idées](https://www.sfeir.dev/ia/notebooklm-donne-une-nouvelle-dimension-a-vos-notes-et-idees/)
+  * [Skills vs Tools : la différence fondamentale dans un agent IA](https://www.sfeir.dev/ia/skills-vs-tools-la-difference-fondamentale-dans-un-agent-ia/)
   * [De la question naturelle à la requête JPA : tool calling avec Spring AI](https://www.sfeir.dev/back/de-la-question-naturelle-a-la-requete-jpa-tool-calling-avec-spring-ai/)
   * [Ludothèque augmentée : un RAG local avec Spring AI, Ollama et Chroma](https://www.sfeir.dev/back/ludotheque-augmentee-un-rag-local-avec-spring-ai-ollama-et-chroma/)
   * [Et si on intégrait LangChain dans  Spring Boot ? Partie 1](https://www.sfeir.dev/back/et-si-on-integrait-langchain-dans-spring-boot-partie-1/)
@@ -174,6 +184,33 @@
 * [Quarkus : définition](https://www.sfeir.dev/quarkus-definition/)
 * [Comment personnaliser la bannière d'un projet Quarkus](https://www.sfeir.dev/back/comment-personnaliser-la-banniere-dun-projet-quarkus/)
 * [Proteger le livre de comptes et le coffre fort avec JWT dans Quarkus](https://www.sfeir.dev/back/proteger-le-livre-de-comptes-et-le-coffre-fort-avec-jwt-dans-quarkus/)
+* [Quarkus : la forge aux extensions](https://www.sfeir.dev/back/quarkus-la-forge-aux-extensions/)
+* [Le Commis de Course : donnez vie à vos CLI avec Quarkus](https://www.sfeir.dev/back/donnez-vie-a-vos-cli-avec-quarkus/)
+* [L'ardoise magique au-dessus du comptoir : utilisation du cache dans Quarkus](https://www.sfeir.dev/back/lardoise-magique-au-dessus-du-comptoir-utilisation-du-cache-dans-quarkus/)
+* [Le commis de course : créer une CLI interactive avec Quarkus](https://www.sfeir.dev/back/le-commis-de-course-creer-une-cli-interactive-avec-quarkus/)
+* [Le tableau d'affichage de la salle commune : SSE avec Quarkus](https://www.sfeir.dev/back/le-tableau-daffichage-de-la-salle-commune-sse-avec-quarkus/)
+* [Le tavernier aux huit bras : la programmation réactive vue depuis le comptoir](https://www.sfeir.dev/back/le-tavernier-aux-huit-bras-la-programmation-reactive-vue-depuis-le-comptoir/)
+* [La Taverne GraphQL : aller plus loin avec le client Quarkus](https://www.sfeir.dev/back/la-taverne-graphql-aller-plus-loin-avec-le-client-quarkus/)
+* [Comprendre les annotations dans Quarkus : guide et exemples](https://www.sfeir.dev/back/comprendre-les-annotations-dans-quarkus-guide-et-exemples/)
+* [La Taverne GraphQL : un royaume de tavernes](https://www.sfeir.dev/back/la-taverne-graphql-un-royaume-de-tavernes/)
+* [La Taverne GraphQL : maîtriser les arts avancés du comptoir](https://www.sfeir.dev/back/la-taverne-graphql-maitriser-les-arts-avances-du-comptoir/)
+* [La Taverne GraphQL : consommer une API GraphQL avec Quarkus](https://www.sfeir.dev/back/la-taverne-graphql-consommer-une-api-graphql-avec-quarkus/)
+* [Qute : le scribe du donjon pour afficher la taverne avec Quarkus](https://www.sfeir.dev/back/qute-le-scribe-du-donjon-pour-afficher-la-taverne-avec-quarkus/)
+* [La Taverne GraphQL : découvrir GraphQL avec Quarkus](https://www.sfeir.dev/back/la-taverne-graphql-decouvrir-graphql-avec-quarkus/)
+* [La Taverne aux Grimoires : versionner une API REST avec Quarkus](https://www.sfeir.dev/back/la-taverne-aux-grimoires-versionner-une-api-rest-avec-quarkus/)
+* [La Taverne Panache : persister les recettes avec Quarkus](https://www.sfeir.dev/back/la-taverne-panache-persister-les-recettes-avec-quarkus/)
+* [La taverne sous contrôle : maîtriser les flux avec Quarkus](https://www.sfeir.dev/back/la-taverne-sous-controle-maitriser-les-flux-avec-quarkus/)
+* [Quand la taverne monte en charge : Prometheus, Grafana et alerting avec Quarkus](https://www.sfeir.dev/back/quand-la-taverne-monte-en-charge-prometheus-grafana-et-alerting-avec-quarkus/)
+* [Observer la taverne en pleine effervescence : observabilité avec Quarkus](https://www.sfeir.dev/back/observer-la-taverne-en-pleine-effervescence-observabilite-avec-quarkus/)
+* [Cartographier les pièges d'un donjon : industrialiser la gestion des erreurs avec Quarkus](https://www.sfeir.dev/back/cartographier-les-pieges-dun-donjon-industrialiser-la-gestion-des-erreurs-avec-quarkus/)
+* [Sécuriser le cellier d'une taverne avec Basic Auth dans Quarkus](https://www.sfeir.dev/back/securiser-le-cellier-dune-taverne-avec-basic-auth-dans-quarkus/)
+* [Mettre en place la documentation OpenAPI dans une application Quarkus](https://www.sfeir.dev/back/mettre-en-place-la-documentation-openapi-dans-une-application-quarkus/)
+* [La Taverne Nocturne : traiter les flux avec Quarkus Batch](https://www.sfeir.dev/back/la-taverne-nocturne-traiter-les-flux-avec-quarkus-batch/)
+* [La volière aux corbeaux messagers : introduction à Kafka dans Quarkus](https://www.sfeir.dev/back/la-voliere-aux-corbeaux-messagers-introduction-a-kafka-dans-quarkus/)
+* [La taverne en flammes : un manuel de résilience opérationnelle pour Quarkus](https://www.sfeir.dev/back/la-taverne-en-flammes-un-manuel-de-resilience-operationnelle-pour-quarkus/)
+* [Quarkus Goblin : le chaos arrive dans Quarkus](https://www.sfeir.dev/back/quarkus-goblin-le-chaos-arrive-dans-quarkus/)
+* [La taverne multilingue](https://www.sfeir.dev/back/la-taverne-multilingue/)
+* [La taverne à l'épreuve du siège : tester la résilience avec Gatling](https://www.sfeir.dev/back/la-taverne-a-lepreuve-du-siege-tester-la-resilience-avec-gatling/)
 
 </details>
 
@@ -182,21 +219,27 @@
 
 * Architecture
   * [Architecture hexagonale en Java - relier DDD, Design Patterns et code concret](https://www.sfeir.dev/back/architecture-hexagonale-en-java-relier-ddd-design-patterns-et-code-concret/)
+  * [Spring Boot, Quarkus et Struts 2 : benchmark comparatif de trois frameworks backend Java](https://www.sfeir.dev/back/spring-boot-quarkus-et-struts-2-benchmark-comparatif-de-trois-frameworks-backend-java/)
 * Fun & Projects
   * [Tetris : un classique intemporel à redécouvrir par le code](https://www.sfeir.dev/back/tetris-un-classique-intemporel-a-redecouvrir-par-le-code/)
   * [Papa, dessine-moi un jeu vidéo](https://www.sfeir.dev/back/papa-dessine-moi-un-jeu-video/)
   * [Un mur de lampes à lave pour la sécurité](https://www.sfeir.dev/back/un-mur-de-lampes-a-lave-pour-la-securite/)
+  * [Dans les coulisses de The Falling Whale : sécurité, Push et JavaScript](https://www.sfeir.dev/back/dans-les-coulisses-de-the-falling-whale-securite-push-et-javascript/)
 * History
   * [Il était une fois... Java](https://www.sfeir.dev/back/il-etait-une-fois-java/)
 * Sound & Multimedia
   * [Tutoriel Java Sound : transformer le son du microphone en images temps réel](https://www.sfeir.dev/back/tutoriel-java-sound-transformer-le-son-du-microphone-en-images-temps-reel/)
   * [Créons un synthétiseur en Java](https://www.sfeir.dev/back/creons-un-synthetiseur-en-java/)
+  * [Agrandissons l'orchestre avec la guitare](https://www.sfeir.dev/back/agrandissons-lorchestre-avec-la-guitare/)
 * Testing
   * [Test paramétrés - un test pour les gouverner tous](https://www.sfeir.dev/back/un-test-pour-les-gouverner-tous/)
   * [JUnit 6 : le successeur de JUnit 5 est là !](https://www.sfeir.dev/back/junit-6-le-successeur-de-junit-5-est-la/)
+  * [Découvrir les tests par propriété avec Java et jqwik](https://www.sfeir.dev/back/decouvrir-les-tests-par-propriete-avec-java-et-jqwik/)
+  * [Tests par propriété : générateurs custom pour des données réalistes](https://www.sfeir.dev/back/tests-par-propriete-generateurs-custom-pour-des-donnees-realistes/)
 * Versions
   * [Java 25 : quelles sont les nouveautés ?](https://www.sfeir.dev/back/java-25-quelles-sont-les-nouveautes/)
   * [Java 26 : quoi de neuf ?](https://www.sfeir.dev/back/java-26-quoi-de-neuf/)
+  * [Threads virtuels et gestion de fichiers](https://www.sfeir.dev/back/threads-virtuels-et-gestion-de-fichiers/)
 
 </details>
 
@@ -206,6 +249,7 @@
 * [Votre API REST est-elle vraiment RESTful ?](https://www.sfeir.dev/back/votre-api-rest-est-elle-vraiment-restful/)
 * [Snake : un classique intemporel à redécouvrir par le code](https://www.sfeir.dev/back/snake-un-classique-intemporel-a-redecouvrir-par-le-code/)
 * [Démystifier les regex](https://www.sfeir.dev/back/demystifier-les-regex/)
+* [Vulnérabilités de l’infrastructure d’Internet - passé, présent et futur](https://www.sfeir.dev/securite/vulnerabilites-de-linfrastructure-dinternet-passe-present-et-futur/)
 
 </details>
 
@@ -231,6 +275,7 @@
 <summary><strong>Product, conférences et histoires</strong></summary>
 
 * Career & Writing
+  * [Qu'est ce que le PDLC ?](https://www.sfeir.dev/product/quest-ce-que-le-pdlc/)
   * [Mais pourquoi écris-tu ?](https://www.sfeir.dev/mais-pourquoi-ecris-tu/)
   * [Papa, dessine-moi un programme](https://www.sfeir.dev/product/papa-dessine-moi-un-programme/)
 * Community & Open Source
@@ -238,11 +283,19 @@
   * [Avoir un profil GitHub qui claque](https://www.sfeir.dev/product/avoir-un-profil-github-qui-claque/)
   * [Hacktoberfest : entre dans l'arène du code !](https://www.sfeir.dev/hacktoberfest-et-toi-quest-ce-que-tu-code/)
 * Conferences & Talks
+  * [DevLille : retour sur l'édition 2026](https://www.sfeir.dev/devlille-retour-sur-ledition-2026/)
   * [Vous rêvez de donner un talk mais n’osez pas ? Voici mon retour d’expérience.](https://www.sfeir.dev/vous-revez-de-donner-un-talk-mais-nosez-pas-voici-mon-retour-dexperience/)
   * [JUG Summer Camp 2025 : le récap complet de l’édition de La Rochelle](https://www.sfeir.dev/back/jug-summer-camp-2025-le-recap-complet-de-ledition-de-la-rochelle/)
   * [Le développement dont vous êtes le héros : Devoxx or Die](https://www.sfeir.dev/tendances/le-dev-dont-vous-etes-le-heros-devoxx-or-die/)
   * [Touraine Tech 2026 : rencontre avec des speakers](https://www.sfeir.dev/touraine-tech-rencontre-avec-des-speakers/)
 * Culture & Stories
+  * [Le dernier développeur](https://www.sfeir.dev/le-dernier-developpeur/)
+  * [Pourquoi 42 ? L’absurde réponse à la grande question de la vie, de l’univers et du reste](https://www.sfeir.dev/pourquoi-42-labsurde-reponse-a-la-grande-question-de-la-vie-de-lunivers-et-du-reste/)
+  * [La responsabilité sociétale des entreprises (RSE) : un levier majeur pour les organisations modernes](https://www.sfeir.dev/la-responsabilite-societale-des-entreprises-rse-un-role-majeur-dans-les-entreprises-modernes/)
+  * [Il était une fois... Amazon](https://www.sfeir.dev/success-story/il-etait-une-fois-amazon/)
+  * [Il était une fois... Microsoft](https://www.sfeir.dev/tendances/il-etait-une-fois-microsoft/)
+  * [Vidocq : un hacker entre réalité et mythe](https://www.sfeir.dev/success-story/vidocq-un-hacker-entre-realite-et-mythe/)
+  * [Syndrome de l’imposteur vs effet Dunning-Kruger : le duel de la perception](https://www.sfeir.dev/tendances/syndrome-de-limposteur-vs-effet-dunning-kruger-le-duel-de-la-perception/)
   * [L'histoire des bugs informatiques les plus célèbres](https://www.sfeir.dev/product/histoire-des-bugs-informatiques-les-plus-celebres/)
   * [Blocage des sites pour adultes en France : loi, bras de fer et explosion des VPN !](https://www.sfeir.dev/tendances/blocage-des-sites-pour-adultes-en-france-loi-bras-de-fer-et-explosion-des-vpn/)
   * [Alejandro Jodorowsky et les Technopères : une vision prophétique de l’intelligence artificielle et du dataïsme](https://www.sfeir.dev/data/jodorowsky-prophete-de-lere-dataiste-la-vision-des-technoperes/)
@@ -251,6 +304,7 @@
   * [Hommage à Chuck Norris : le dernier commit](https://www.sfeir.dev/tendances/hommage-a-chuck-norris-le-dernier-commit/)
   * [HTTP 418 - histoire d'une blague](https://www.sfeir.dev/tendances/http-418-histoire-dune-blague/)
 * Methodology & Agile
+  * [Les avantages de la méthode agile](https://www.sfeir.dev/product/les-avantages-de-la-methode-agile/)
   * [Pourquoi tester son code ?](https://www.sfeir.dev/product/pourquoi-tester-son-code/)
   * [Le développement dont vous êtes le héros : chroniques d’une journée en terre agile](https://www.sfeir.dev/tendances/le-developpement-dont-vous-etes-le-heros-chroniques-dune-journee-en-terre-agile/)
   * [Le Product Owner dont vous êtes le héros : épopée en terre corporate](https://www.sfeir.dev/product/le-product-owner-dont-vous-etes-le-heros-epopee-en-terre-corporate/)
