@@ -8,34 +8,307 @@
 
 </div>
 
-## 👦🏼 Social
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwan-le-tutour-32904972/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErwanLeTutour)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErwanLT)
+```java
+import java.util.List;
+import java.util.Map;
 
-## Skills
-### 💻 OS
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-### 👨🏼‍💻 Code
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/ "java")
-[![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/ "Kolinlang")
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/ "Python")
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/ "javascript")
-[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whit)](https://angular.io/ "angular")
-### 🛠 Tools
-![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=for-the-badge&logo=travis)
-![](https://img.shields.io/badge/-Codecov-9cf?style=for-the-badge&logo=codecov)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-### 🗣 Languages
-![](https://img.shields.io/badge/-French-blue?style=for-the-badge)
-![](https://img.shields.io/badge/-English-lightgrey?style=for-the-badge)
+/**
+ * <h1>About Erwan Le Tutour</h1>
+ *
+ * Java Backend Engineer, Open Source Maintainer,
+ * Technical Writer and lifelong learner.
+ *
+ * Building software, breaking assumptions,
+ * sharing knowledge and occasionally unleashing Goblins.
+ *
+ * @author Erwan Le Tutour
+ * @since 1991
+ *
+ * @see <a href="https://github.com/ErwanLT">GitHub</a>
+ * @see <a href="https://www.sfeir.dev/author/erwan/">SFEIR.dev</a>
+ */
+public final class About {
 
-### 🖍 Design
-![](https://img.shields.io/badge/-Gimp-9cf?style=for-the-badge&logo=gimp&logoColor=5C5543)
+    // ==================================================
+    // IDENTITY
+    // ==================================================
+
+    public static final String NAME = "Erwan LE TUTOUR";
+
+    public static final String LOCATION = "France 🇫🇷";
+
+    public static final String ROLE =
+        "Java Backend Engineer | Technical Writer | Open Source Maintainer";
+
+    public static final String PHILOSOPHY =
+        "Code is meant to be understood, shared and improved.";
+
+    // ==================================================
+    // PROFESSIONAL PROFILE
+    // ==================================================
+
+    public record Experience(
+        String title,
+        String description
+    ) {}
+
+    public static final List<Experience> EXPERIENCE = List.of(
+        new Experience(
+            "Backend Engineering",
+            "Designing and building robust backend applications."
+        ),
+        new Experience(
+            "Software Architecture",
+            "Clean Architecture, DDD, Design Patterns and API design."
+        ),
+        new Experience(
+            "Technical Writing",
+            "Making complex technical subjects accessible."
+        ),
+        new Experience(
+            "Open Source",
+            "Building tools and contributing to the Java ecosystem."
+        ),
+        new Experience(
+            "Knowledge Sharing",
+            "Writing articles, speaking and sharing experience."
+        )
+    );
+
+    // ==================================================
+    // TECHNOLOGY STACK
+    // ==================================================
+
+    public enum Language {
+        JAVA,
+        SQL,
+        JAVASCRIPT
+    }
+
+    public enum Framework {
+        SPRING_BOOT,
+        QUARKUS,
+        VAADIN,
+        JAKARTA_EE
+    }
+
+    public enum Infrastructure {
+        DOCKER,
+        POSTGRESQL,
+        KAFKA,
+        REDIS,
+        PROMETHEUS,
+        GRAFANA
+    }
+
+    public static final List<Language> LANGUAGES =
+        List.of(Language.values());
+
+    public static final List<Framework> FRAMEWORKS =
+        List.of(Framework.values());
+
+    public static final List<Infrastructure> INFRASTRUCTURE =
+        List.of(Infrastructure.values());
+
+    // ==================================================
+    // OPEN SOURCE
+    // ==================================================
+
+    public record Project(
+        String name,
+        String description,
+        String repository
+    ) {}
+
+    public static final Project QUARKUS_GOBLIN = new Project(
+        "Quarkus Goblin",
+        "Chaos Engineering for the Quarkus ecosystem.",
+        "https://github.com/ErwanLT/quarkus-goblin"
+    );
+
+    public static final Project JAVA_BENCHMARK = new Project(
+        "Java Benchmark",
+        "Comparing Java backend frameworks and their performance.",
+        "https://github.com/ErwanLT/java-benchmark"
+    );
+
+    public static final List<Project> OPEN_SOURCE_PROJECTS =
+        List.of(QUARKUS_GOBLIN, JAVA_BENCHMARK);
+
+    /**
+     * Current open source responsibility.
+     */
+    public static final String MAINTAINER =
+        "Quarkus Goblin - Quarkiverse";
+
+    // ==================================================
+    // SHARING TECHNICAL KNOWLEDGE
+    // ==================================================
+
+    public static final String BLOG =
+        "https://www.sfeir.dev/author/erwan/";
+
+    public static final String DEV_TO =
+        "https://dev.to/erwanlt";
+
+    public static final String YOUTUBE_CHANNEL = "https://www.youtube.com/@erwanletutour9404/";
+
+    public static final int ARTICLES_PUBLISHED = 211;
+
+    public static final List<String> FAVORITE_TOPICS = List.of(
+        "Java",
+        "Spring Boot",
+        "Quarkus",
+        "Design Patterns",
+        "Software Architecture",
+        "Artificial Intelligence",
+        "Computer History",
+        "Open Source"
+    );
+
+    /**
+     * Writing is not just documentation.
+     * It is another way to understand a subject.
+     */
+    public static void write() {
+        shareKnowledge();
+        challengeAssumptions();
+    }
+
+    // ==================================================
+    // SOCIAL NETWORKS
+    // ==================================================
+
+    public static final Map<String, String> SOCIALS = Map.of(
+        "GitHub", "https://github.com/ErwanLT",
+        "LinkedIn", "https://www.linkedin.com/in/erwan-le-tutour-32904972/",
+        "SFEIR.dev", BLOG,
+        "Dev.to", DEV_TO,
+        "Youtube", YOUTUBE_CHANNEL
+    );
+
+    // ==================================================
+    // BEYOND THE CODE
+    // ==================================================
+
+    public enum Interest {
+        TECHNOLOGY,
+        COMPUTER_HISTORY,
+        SCIENCE_FICTION,
+        FANTASY,
+        VIDEO_GAMES,
+        STORYTELLING,
+        GENEALOGY
+    }
+
+    public static final List<Interest> INTERESTS =
+        List.of(Interest.values());
+
+    // ==================================================
+    // DEVELOPER MINDSET
+    // ==================================================
+
+    public static final boolean BELIEVE_IN_TESTS = true;
+
+    public static final boolean LOVE_CLEAN_CODE = true;
+
+    public static final boolean EMBRACE_OPEN_SOURCE = true;
+
+    public static final boolean AFRAID_OF_CHAOS = false;
+
+    public static final boolean STOP_LEARNING = false;
+
+    public static final boolean DOCUMENT_EVERYTHING = true;
+
+    // ==================================================
+    // PERSONALITY
+    // ==================================================
+
+    public static final String DEFAULT_MODE = "Curious";
+
+    public static final String DEBUG_MODE =
+        "Understand before fixing.";
+
+    public static final String LEARNING_STRATEGY =
+        "Learn it, build it, break it, explain it.";
+
+    // ==================================================
+    // METHODS
+    // ==================================================
+
+    public static void build() {
+        System.out.println("Turning ideas into working software.");
+    }
+
+    public static void experiment() {
+        System.out.println("Exploring new technologies and approaches.");
+    }
+
+    public static void contribute() {
+        System.out.println("Making the ecosystem a little better.");
+    }
+
+    public static void shareKnowledge() {
+        System.out.println("If you understand it, share it.");
+    }
+
+    public static void challengeAssumptions() {
+        System.out.println("Because 'we've always done it this way' is not an argument.");
+    }
+
+    public static void unleashChaos() {
+        System.out.println("Release the Goblins!");
+    }
+
+    // ==================================================
+    // ERROR HANDLING
+    // ==================================================
+
+    public static void handleFailure(Exception exception) {
+        System.err.println(
+            "Something went wrong. Time to investigate: "
+            + exception.getMessage()
+        );
+    }
+
+    // ==================================================
+    // TODO
+    // ==================================================
+
+    // TODO: Explore new technologies.
+    // TODO: Build more open source projects.
+    // TODO: Share more knowledge.
+    // TODO: Keep asking questions.
+    // TODO: Never stop being curious.
+
+    // ==================================================
+    // CONSTRUCTOR
+    // ==================================================
+
+    private About() {
+        throw new UnsupportedOperationException(
+            "This class is not meant to be instantiated."
+        );
+    }
+
+    // ==================================================
+    // MAIN
+    // ==================================================
+
+    public static void main(String[] args) {
+
+        while (true) {
+            build();
+            experiment();
+            contribute();
+            shareKnowledge();
+        }
+
+        // No exit condition.
+        // This is not a bug. It's a feature.
+    }
+}
+```
 
 ## Github Stats
 
