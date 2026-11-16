@@ -481,11 +481,14 @@ public final class About {
 * [Mettre en place la documentation OpenAPI dans une application Quarkus](https://www.sfeir.dev/back/mettre-en-place-la-documentation-openapi-dans-une-application-quarkus/)
 * [La Taverne Nocturne : traiter les flux avec Quarkus Batch](https://www.sfeir.dev/back/la-taverne-nocturne-traiter-les-flux-avec-quarkus-batch/)
 * [La volière aux corbeaux messagers : introduction à Kafka dans Quarkus](https://www.sfeir.dev/back/la-voliere-aux-corbeaux-messagers-introduction-a-kafka-dans-quarkus/)
+* [Le filet de secours de la volière : Retry et Dead Letter Queue](https://www.sfeir.dev/back/le-filet-de-secours-de-la-voliere-retry-et-dead-letter-queue/)
 * [La taverne en flammes : un manuel de résilience opérationnelle pour Quarkus](https://www.sfeir.dev/back/la-taverne-en-flammes-un-manuel-de-resilience-operationnelle-pour-quarkus/)
 * [Quarkus Goblin : le chaos arrive dans Quarkus](https://www.sfeir.dev/back/quarkus-goblin-le-chaos-arrive-dans-quarkus/)
+* [Le gobelin dans la taverne : éprouver la résilience de Quarkus avec Goblin](https://www.sfeir.dev/back/le-gobelin-dans-la-taverne-eprouver-la-resilience-de-quarkus-avec-goblin/)
+* [La horde : des gobelins pilotés par une entité supérieure](https://www.sfeir.dev/back/la-horde-attendre-le-goblin-dans-la-taverne-des-gobelins-pilotes-par-une-entite-superieure/)
 * [La taverne multilingue](https://www.sfeir.dev/back/la-taverne-multilingue/)
 * [La taverne à l'épreuve du siège : tester la résilience avec Gatling](https://www.sfeir.dev/back/la-taverne-a-lepreuve-du-siege-tester-la-resilience-avec-gatling/)
-
+* [L'imprimerie de la taverne : tickets et factures avec JasperReports et Quarkus](https://www.sfeir.dev/back/limprimerie-de-la-taverne-tickets-et-factures-avec-jasperreports-et-quarkus/)
 </details>
 
 <details open>
